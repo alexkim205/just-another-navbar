@@ -20,6 +20,7 @@
     "transpile": "babel src -d dist --copy-files",
     "prepublishOnly": "npm run transpile",
     "build": "webpack --mode production",
+    "push": "git push origin master",
     "deploy": "gh-pages -d demo/dist",
     "publish-demo": "npm run build && npm run deploy"
   },
