@@ -1,3 +1,5 @@
+![demo](https://github.com/alexkim205/just-another-navbar/tree/master/demo/demo.gif)
+
 # Just Another NavBar
 
 Making a navbar and collapsible hamburger menu everytime I wanted to make a website was getting tedious. This package is a responsive ReactJS navbar + sidebar that makes my web dev life a bit easier.
