@@ -1,5 +1,5 @@
 <p align="center">
-<img width="400px" src="https://github.com/alexkim205/just-another-navbar/raw/master/demo/demo.gif">
+<img width="700px" src="https://github.com/alexkim205/just-another-navbar/raw/master/demo/demo.gif">
 </p>
 
 # Just Another NavBar
