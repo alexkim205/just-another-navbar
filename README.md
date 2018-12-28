@@ -1,4 +1,6 @@
-<div style="text-align:center">![demo](https://github.com/alexkim205/just-another-navbar/raw/master/demo/demo.gif)</div>
+<div style="text-align:center">
+![demo](https://github.com/alexkim205/just-another-navbar/raw/master/demo/demo.gif)
+</div>
 
 # Just Another NavBar
 
