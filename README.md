@@ -1,4 +1,4 @@
-![demo](https://github.com/alexkim205/just-another-navbar/tree/master/demo/demo.gif)
+![demo](https://github.com/alexkim205/just-another-navbar/raw/master/demo/demo.gif)
 
 # Just Another NavBar
 
