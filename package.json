@@ -1,6 +1,6 @@
 {
   "name": "just-another-navbar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A responsive ReactJS navbar + sidebar to make my web dev life easier.",
   "main": "dist/index.js",
   "author": "alexkim205",
